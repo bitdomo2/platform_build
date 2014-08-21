@@ -27,7 +27,14 @@ PRODUCT_PACKAGES := \
     libWnnJpnDic \
     libwnndict \
     VideoEditor \
-    WAPPushManager
+    WAPPushManager \
+    mount.exfat \
+    fsck.exfat \
+    mkfs.exfat \
+    ntfsfix \
+    ntfs-3g \
+    mkntfs \
+    mke2fs
 
 PRODUCT_PACKAGES += \
     Galaxy4 \
